@@ -8,7 +8,7 @@ Re:balance는 웹캠으로 목·어깨 자세를 인식해 점수를 매기고, 
 
 | 항목 | 내용 |
 | --- | --- |
-| 기간 | 2026.04 ~ 2026.06 (커밋 기준) |
+| 기간 | 2026.03.18 ~ 2026.04.10 |
 | 인원 | 5명 |
 | 역할 | 백엔드 전체 — 데이터 모델(5 테이블), 세션 설계, 인증, API |
 | 기술 스택 | Node.js, Express 5.2.1, Sequelize 6.37.8, MySQL2 3.20.0, bcrypt 6.0.0, jsonwebtoken 9.0.3, Passport (Google·Kakao OAuth), Google Generative AI (Gemini 1.5 flash) |
